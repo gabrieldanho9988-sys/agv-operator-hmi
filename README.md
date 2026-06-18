@@ -7,7 +7,7 @@ The interface lets an operator dispatch the AGV between floor stations and recov
 
 🔗 **Live demo:** https://gabrieldanho9988-sys.github.io/agv-operator-hmi/
 
-![AGV Operator HMI](docs/screenshot.png)
+
 
 ---
 
