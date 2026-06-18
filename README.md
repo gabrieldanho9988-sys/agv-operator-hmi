@@ -50,6 +50,12 @@ open index.html        # macOS
 - Finite-state machine modelled on the original Structured Text (ST) controller
 - Industrial control-panel visual design
 
+- ## Related project
+
+A second University West **ATM700** exercise built on the same control approach — a **drilling-cell controller**. It pairs FBD safety/interlock logic (emergency-stop summation, self-holding reset latches, a manual/auto split on every actuator) with a Structured Text state machine that runs the automatic cycle: load → drill down → drill up → retract → eject → return home.
+
+Same IEC 61131-3 patterns as the AGV HMI, applied to a different machine. Full annotated program — all 17 FBD networks plus the ST sequence — is here: [`twincat-drilling-machine.pdf`](twincat-drilling-machine.pdf).
+
 ## Author
 
 **Gabriel Danho** — University West, Department of Engineering Science
