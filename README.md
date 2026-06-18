@@ -5,7 +5,7 @@ An interactive **operator HMI** for the University West *TwinCAT Virtual AGV* (A
 
 The interface lets an operator dispatch the AGV between floor stations and recover from emergency stops **without seeing the vehicle**, faithfully mirroring the IEC 61131-3 state machine in the underlying PLC program.
 
-🔗 **Live demo:** https://<your-username>.github.io/agv-operator-hmi/
+🔗 **Live demo:** https://gabrieldanho9988-sys.github.io/agv-operator-hmi/
 
 ![AGV Operator HMI](docs/screenshot.png)
 
